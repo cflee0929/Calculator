@@ -1,2 +1,2 @@
 # Calculator
-press c to reset number
+Press c to reset number.
